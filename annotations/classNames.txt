@@ -1,0 +1,48 @@
+adult+female+singing
+adult+male+singing
+adult+male+speaking
+applauding
+ascending
+balancing
+bouncing
+breathing fire
+bubbling
+burning
+cheering
+child+singing
+clapping
+combusting
+coughing
+dancing
+descending
+driving
+dropping
+drumming
+erupting
+floating
+headbanging
+juggling
+juggling fire
+karaoke
+performing
+playing
+playing laser tag
+playing+music
+playing+videogames
+raining
+riding mechanical bull
+rising
+rocking
+shooting off fireworks
+shouting
+silent disco
+singing
+smoking
+spelunking
+spilling
+spinning
+spinning poi
+storming
+talking
+turning
+whistling
